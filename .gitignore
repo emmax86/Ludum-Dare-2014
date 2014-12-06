@@ -3,3 +3,6 @@
 
 # More annoying Windows system files
 Thumbs.db
+
+# XCF files
+*.xcf
