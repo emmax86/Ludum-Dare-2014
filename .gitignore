@@ -1,2 +1,5 @@
 # Annoying Mac system files
 .DS_Store
+
+# More annoying Windows system files
+Thumbs.db
