@@ -1,7 +1,8 @@
 Ludum-Dare-2014
 ===============
 
-Repository for the SoDA's Ludum Dare team, December 2014. Built using Game Maker by YoYo Games.
+Repository for the SoDA's Ludum Dare team, December 2014. 
+Built using Game Maker 8.1 by YoYo Games.
 
 Credits:
 Tyler Pinho
